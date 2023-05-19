@@ -1,0 +1,3 @@
+rep "StormSurvival@ZFG_Dev@cloud"
+  path "/"
+    smartbranch "/main"

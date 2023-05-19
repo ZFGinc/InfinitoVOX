@@ -1,0 +1,16 @@
+id,type,name,damage,cd,weight
+0,pistol,Dual,3,0.6,0.9
+1,pistol,usp,3,0.5,0.9
+2,pistol,SeaEagle,7,0.75,0.9
+3,submachine gun,Cat,2,0.25,0.9
+4,submachine gun,p900,4,0.22,0.9
+5,automatic rifle,MegaShark,3,0.3,0.85
+6,automatic rifle,M-16,4,0.35,0.85
+7,automatic rifle,AK-74,5,0.4,0.8
+8,sniper rifle,MCC,40,1.1,0.6
+9,sniper rifle,AWM,60,1.2,0.5
+10,bomb,BlueDeath,33,0.8,1
+11,bomb,PirateBomb,40,1,1
+12,bomb,Dynamit,50,1,1
+13,grenade launch,grenade launch,50,0.8,0.4
+14,minigun,GatlingGun,4,0.1,0.4
